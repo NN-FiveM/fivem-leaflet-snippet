@@ -1,4 +1,4 @@
-    <a id="readme-top"></a>
+<a id="readme-top"></a>
 
 [![React][React.js]][React-url]
 [![TypeScript][TypeScript-shield]][TypeScript-url]
